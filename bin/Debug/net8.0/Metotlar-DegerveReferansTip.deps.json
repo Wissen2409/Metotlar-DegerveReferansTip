@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Metotlar-DegerveReferansTip/1.0.0": {
+        "runtime": {
+          "Metotlar-DegerveReferansTip.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Metotlar-DegerveReferansTip/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

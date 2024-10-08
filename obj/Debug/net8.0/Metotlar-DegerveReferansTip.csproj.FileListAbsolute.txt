@@ -1,0 +1,14 @@
+/Users/emrahelis/Metotlar-DegerveReferansTip/bin/Debug/net8.0/Metotlar-DegerveReferansTip
+/Users/emrahelis/Metotlar-DegerveReferansTip/bin/Debug/net8.0/Metotlar-DegerveReferansTip.deps.json
+/Users/emrahelis/Metotlar-DegerveReferansTip/bin/Debug/net8.0/Metotlar-DegerveReferansTip.runtimeconfig.json
+/Users/emrahelis/Metotlar-DegerveReferansTip/bin/Debug/net8.0/Metotlar-DegerveReferansTip.dll
+/Users/emrahelis/Metotlar-DegerveReferansTip/bin/Debug/net8.0/Metotlar-DegerveReferansTip.pdb
+/Users/emrahelis/Metotlar-DegerveReferansTip/obj/Debug/net8.0/Metotlar-DegerveReferansTip.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/Metotlar-DegerveReferansTip/obj/Debug/net8.0/Metotlar-DegerveReferansTip.AssemblyInfoInputs.cache
+/Users/emrahelis/Metotlar-DegerveReferansTip/obj/Debug/net8.0/Metotlar-DegerveReferansTip.AssemblyInfo.cs
+/Users/emrahelis/Metotlar-DegerveReferansTip/obj/Debug/net8.0/Metotlar-DegerveReferansTip.csproj.CoreCompileInputs.cache
+/Users/emrahelis/Metotlar-DegerveReferansTip/obj/Debug/net8.0/Metotlar-DegerveReferansTip.dll
+/Users/emrahelis/Metotlar-DegerveReferansTip/obj/Debug/net8.0/refint/Metotlar-DegerveReferansTip.dll
+/Users/emrahelis/Metotlar-DegerveReferansTip/obj/Debug/net8.0/Metotlar-DegerveReferansTip.pdb
+/Users/emrahelis/Metotlar-DegerveReferansTip/obj/Debug/net8.0/Metotlar-DegerveReferansTip.genruntimeconfig.cache
+/Users/emrahelis/Metotlar-DegerveReferansTip/obj/Debug/net8.0/ref/Metotlar-DegerveReferansTip.dll

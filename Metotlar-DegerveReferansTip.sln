@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar-DegerveReferansTip", "Metotlar-DegerveReferansTip.csproj", "{19EA98B4-380A-4AE6-BEE8-4460AF8D0ED8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19EA98B4-380A-4AE6-BEE8-4460AF8D0ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19EA98B4-380A-4AE6-BEE8-4460AF8D0ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19EA98B4-380A-4AE6-BEE8-4460AF8D0ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19EA98B4-380A-4AE6-BEE8-4460AF8D0ED8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD26DBBD-F1FE-4B02-80E6-A7C887F6DBF6}
+	EndGlobalSection
+EndGlobal
